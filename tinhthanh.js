@@ -1,0 +1,1 @@
+export const tinhthanh= ["Ha Noi","Thai Nguyen"]
